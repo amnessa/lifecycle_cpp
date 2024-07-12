@@ -1,0 +1,26 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/cagopalin2/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/cagopalin2/ros2_ws/build/moving_robot_py",
+        "/home/cagopalin2/ros2_ws/install/moving_robot_py/lib/python3.10/site-packages",
+        "/home/cagopalin2/ros2_ws/install/my_moving_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/cagopalin2/ros2_ws/build/lifecycle_py",
+        "/home/cagopalin2/ros2_ws/install/lifecycle_py/lib/python3.10/site-packages",
+        "/home/cagopalin2/ros2_ws/build/actions_py",
+        "/home/cagopalin2/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/cagopalin2/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/cagopalin2/ros2_ws/build/moving_robot_py",
+        "/home/cagopalin2/ros2_ws/install/moving_robot_py/lib/python3.10/site-packages",
+        "/home/cagopalin2/ros2_ws/install/my_moving_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/cagopalin2/ros2_ws/build/lifecycle_py",
+        "/home/cagopalin2/ros2_ws/install/lifecycle_py/lib/python3.10/site-packages",
+        "/home/cagopalin2/ros2_ws/build/actions_py",
+        "/home/cagopalin2/ros2_ws/install/actions_py/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
